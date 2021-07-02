@@ -1,0 +1,19 @@
+h1{
+    color: steelblue;
+    text-align: center;
+    border-left: 130px solid tomato;
+    width: 30%;
+    padding: 20px 25px 20px 30px;
+
+}
+h3{
+    display: inline;
+    border-right: 5px solid tomato;
+
+}
+small{
+    display: block;
+}
+body{
+    border-left: 20px solid black;
+}
